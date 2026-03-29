@@ -100,8 +100,10 @@ git clone https://github.com/mannyctg/pet-image-classification-deep-learning.git
 2. Install dependencies:
 pip install -r requirements.txt
 
-Open the notebook:
+3. Open the notebook:
 FinalDeepLearning.ipynb
+
+---
 
 Author
 
