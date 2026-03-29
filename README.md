@@ -110,8 +110,8 @@ Author
 Manuel Alejandro Zuñiga Navarro
 Data Analytics/Data Science/Deep Learning
 
-LinkedIn: https://linkedin.com/in/TU_PERFIL
-GitHub: https://github.com/TU_USUARIO
+LinkedIn: https://linkedin.com/in/manuel9830
+GitHub: https://github.com/mannyctg
 
 ---
 
